@@ -66,7 +66,8 @@ format:
 
 ## Conclusion
 - We are a group of experts in Statistics, AI and Data Science
-- We are open for collaborations
+- We are capable of much more than you are currently *using* us for
+- We are always open for collaborations
 - Consult us when you start new projects on new topics
 - Tell your team to contact us when they need help with data analysis, AI or machine learning
 - We are available to collaborate on grant proposals, research and innovation projects
