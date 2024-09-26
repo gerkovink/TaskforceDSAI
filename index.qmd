@@ -45,7 +45,8 @@ format:
 - Research and teaching in statistics, methodology, AI and data science
 - Integral role within the School of Social and Behavioral Sciences.
 - Collaboration with departments like psychology, sociology, and educational sciences.
-- Strong collaborative ties with Governmental and non-Governmental organizations and industry.
+- Strong collaborative ties with governmental and non-governmental organizations and industry.
+  - e.g., TNO, CBS, RIVM, WODC, Banks, Zeiss optics and the Dutch Ministry of Justice and Security.
 
 
 ## AI and Data Science Expertise
@@ -57,6 +58,13 @@ format:
   - Networks and Relational Event History modeling 
   - Analyzing complex data structures
   - Causal Inference in many flavors
+
+## Examples of our collaborations
+![](example1.png)
+
+::: {.footer}
+[Muijzer, M. B., Hoven, C. M. W., Frank, L. E., Vink, G., & Wisse, R. P. (2022). A machine learning approach to explore predictors of graft detachment following posterior lamellar keratoplasty: a nationwide registry study. Scientific Reports, 12(1), 17705.](https://www.nature.com/articles/s41598-022-22223-y)
+:::
 
 ## Consultation for Social Sciences
 ![Collaborations within FSBS](inFSS.png)
