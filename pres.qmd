@@ -1,0 +1,72 @@
+---
+title: "Data Science and AI"
+subtitle: "Opportunities for collaboration"
+author: 
+  - name: Emmeke Aarts
+    orcid: 0000-0002-2432-7564
+    email: e.aarts@uu.nl
+    affiliations:
+      - name: Methodology & Statistics @ UU
+  - name: Ayoub Bagheri
+    orcid: 0000-0000-0000-0000
+    email: a.bagheri@uu.nl
+    affiliations:
+      - name: Methodology & Statistics @ UU
+  - name: Gerko Vink
+    orcid: 0000-0001-9767-1924
+    email: g.vink@uu.nl
+    affiliations:
+      - name: Methodology & Statistics @ UU 
+date-format: "D MMM YYYY"
+execute: 
+  echo: true
+editor: source
+# format: pptx
+format:
+  revealjs:
+    embed-resources: true
+    theme: [solarized, gerko.scss]
+    progress: true
+    multiplex: false
+    transition: fade
+    slide-number: true
+    margin: 0.075
+    logo: "logo.png" 
+    toc: false
+    toc-depth: 1
+    toc-title: Outline
+    scrollable: true
+    reference-location: margin
+    footer: Data Science and AI - Methodology & Statistics @ UU
+---
+
+## Welcome to the Department of Methodology & Statistics
+- More than 84 experts and experts-to-be
+- Research and teaching in statistics, methodology, AI and data science
+- Integral role within the School of Social and Behavioral Sciences.
+- Collaboration with departments like psychology, sociology, and educational sciences.
+- Strong collaborative ties with Governmental and non-Governmental organizations and industry.
+
+
+## AI and Data Science Expertise
+- Expertise in artificial intelligence, machine learning, and data science.
+- Key research examples:
+  - Natural language processing 
+  - Dark Data and Synthetic Data 
+  - Computational evaluation of algorithmic solutions
+  - Networks and Relational Event History modeling 
+  - Analyzing complex data structures
+  - Causal Inference in many flavors
+
+## Consultation for Social Sciences
+![Collaborations within FSBS](inFSS.png)
+
+## Consultation outside of Social Sciences
+![Collaborations outside FSBS](outFSS.png)
+
+## Conclusion
+- We are a group of experts in Statistics, AI and Data Science
+- We are open for collaborations
+- Consult us when you start new projects on new topics
+- Tell your team to contact us when they need help with data analysis, AI or machine learning
+- We are available to collaborate on grant proposals, research and innovation projects
